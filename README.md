@@ -1,5 +1,4 @@
 # Pets Shop
-
 - 애완동물을 타겟으로한 쇼핑몰
 
 ## 서비스 구성 안내
@@ -7,16 +6,13 @@
 ## 1. 서비스 소개
 
 - Front
-
   - HTML, CSS3
   - JavaScript
 
 - Back
-
   - node.js
 
 - Database
-
   - MongoDB
 
 - Library
@@ -88,6 +84,7 @@
   mongodb 실행
   .env 파일 생성 및 변수 선언
   ```bash
+  npm install
   npm start
   ```
 
