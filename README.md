@@ -5,19 +5,7 @@
 
 ## 1. 서비스 소개
 
-- Front
-  - HTML, CSS3
-  - JavaScript
-
-- Back
-  - node.js
-
-- Database
-  - MongoDB
-
-- Library
-  - multer
-  - uuid
+- 작성중
 
 ## 2. 서비스 주요 기능 설명
 
